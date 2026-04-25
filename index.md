@@ -35,3 +35,4 @@
 <!-- Filed query results go here. Format: - [Title](analyses/filename.md) — one-line description -->
 
 - [MLB & MiLB by the Numbers](analyses/mlb-milb-by-the-numbers.md) — Single-page numerical reference covering MLB structure, MiLB leagues, roster rules, scouting scale, timelines, and 2026 broadcasting
+- [MLB–MiLB Master Technical Analysis](analyses/mlb-milb-master-technical-analysis.md) — Systems-level view with Mermaid diagrams: org hierarchy, league map, affiliate pipeline, player development flow, roster mechanics, scouting by level, and cross-reference matrix

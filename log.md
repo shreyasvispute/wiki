@@ -40,3 +40,10 @@
 - Deleted sources/milb-rookie-leagues.md (duplicate content absorbed)
 - Created analyses/mlb-milb-by-the-numbers.md — comprehensive numbers summary with tables for MLB org, MiLB structure, league sizes, roster rules, scouting scale, development timelines, and 2026 broadcasting
 - Pages updated: entities/minor-league-baseball.md (fixed cross-references), index.md
+
+## [2026-04-25] analysis | MLB–MiLB Master Technical Analysis
+- Created analyses/mlb-milb-master-technical-analysis.md
+- 9 sections: org hierarchy, league map, affiliate pipeline, player entry/dev flow, roster mechanics & decision gates, scouting by level, end-to-end system flow, cross-reference matrix, systemic insights
+- 8 Mermaid diagrams (trees, flowcharts, quadrant chart)
+- Synthesized content from all 5 sources, 2 entities, 4 concepts, and 1 prior analysis
+- Pages updated: index.md
