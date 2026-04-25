@@ -33,3 +33,10 @@
 - Summary: sources/milb-rookie-leagues.md
 - Pages created: (none)
 - Pages updated: entities/minor-league-baseball.md (expanded Rookie league details with DSL Cup, rebranding history, multi-squad notes)
+
+## [2026-04-25] ingest + merge + analysis | Link 11, source consolidation, numbers summary
+- Ingested link 11 (mlb.com/milb/about/teams/by-league) — all 11 full-season MiLB league names and rosters
+- Merged sources/milb-rookie-leagues.md into sources/mlb-milb-teams-by-affiliate.md → single consolidated "MLB Minor League Teams: Complete Reference" with affiliate tables, league directory, and full Rookie league detail
+- Deleted sources/milb-rookie-leagues.md (duplicate content absorbed)
+- Created analyses/mlb-milb-by-the-numbers.md — comprehensive numbers summary with tables for MLB org, MiLB structure, league sizes, roster rules, scouting scale, development timelines, and 2026 broadcasting
+- Pages updated: entities/minor-league-baseball.md (fixed cross-references), index.md

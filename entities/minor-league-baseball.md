@@ -3,7 +3,7 @@ title: Minor League Baseball
 created: 2026-04-14
 updated: 2026-04-25
 tags: [milb, minor-leagues, baseball, player-development, affiliates]
-sources: [minor-league-baseball-ecosystem, mlb-milb-teams-by-affiliate, milb-rookie-leagues]
+sources: [minor-league-baseball-ecosystem, mlb-milb-teams-by-affiliate]
 ---
 
 # Minor League Baseball (MiLB)
@@ -26,7 +26,7 @@ MiLB is organized into a hierarchy of levels, from developmental rookie ball to 
 - **Arizona Complex League (ACL)** and **Florida Complex League (FCL)** serve U.S.-based complex/rookie development at Spring Training facilities with free admission; both open May 2; rebranded from AZL and GCL in 2021 as part of post-2020 restructuring
 - Several organizations field **multiple Rookie squads** per league (identified by color: Black/Red, Blue/Orange, etc.)
 
-For detailed team rosters, stadiums, champions, and notable prospects, see the [MiLB Rookie Leagues](../sources/milb-rookie-leagues.md) source page.
+For detailed team rosters, stadiums, champions, and notable prospects, see the [MiLB Teams Reference](../sources/mlb-milb-teams-by-affiliate.md) source page.
 
 ## Player Entry
 
@@ -67,3 +67,4 @@ For the complete affiliate map organized by MLB parent club and division, see th
 - [MLB Player Development Pathways](../concepts/mlb-player-development-pathways.md)
 - [MLB Scouting & Evaluation](../concepts/mlb-scouting-evaluation.md)
 - [MLB Roster Mechanics](../concepts/mlb-roster-mechanics.md)
+- [MLB & MiLB by the Numbers](../analyses/mlb-milb-by-the-numbers.md)
