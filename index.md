@@ -10,8 +10,10 @@
 - [2026 Sunday Night Baseball Schedule](sources/sunday-night-baseball-2026-schedule.md) — Full 2026 MLB broadcast schedule for NBC and Peacock
 - [AL vs NL Rule Differences](sources/al-nl-rule-differences.md) — History and current state of rule differences between the American and National Leagues
 - [Minor League Baseball Ecosystem](sources/minor-league-baseball-ecosystem.md) — Comprehensive reference on MiLB league levels, player development pathways, scouting workflows, and roster mechanics
+- [MLB Minor League Teams by Affiliate](sources/mlb-milb-teams-by-affiliate.md) — Complete listing of all 120 full-season MiLB affiliates organized by MLB parent club and division
+- [MiLB Rookie Leagues: ACL, FCL, and DSL](sources/milb-rookie-leagues.md) — Teams, stadiums, champions, and prospect highlights for the three Rookie-level circuits
 
-**Note:** The MLB.com Rule 4 Draft page (link 2 in raw/assets/links.md) could not be fetched — it redirected to a tracking pixel.
+**Note:** The MLB.com Rule 4 Draft page (link 2) and MLB.com MiLB homepage (link 6) could not be fetched — both redirected to tracking pixels.
 
 ## Entities
 

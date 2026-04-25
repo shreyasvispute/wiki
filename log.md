@@ -21,3 +21,15 @@
 - Summary: sources/minor-league-baseball-ecosystem.md
 - Pages created: entities/minor-league-baseball.md, concepts/mlb-player-development-pathways.md, concepts/mlb-scouting-evaluation.md, concepts/mlb-roster-mechanics.md
 - Pages updated: entities/major-league-baseball.md (added Minor League System section and cross-links)
+
+## [2026-04-25] ingest | MiLB Teams by Affiliate (links 6 & 7)
+- Processed 2 URLs; 1 fetched successfully (mlb.com/milb/about/teams/by-affiliate), 1 failed (mlb.com/milb — redirect to tracking pixel)
+- Summary: sources/mlb-milb-teams-by-affiliate.md
+- Pages created: (none)
+- Pages updated: entities/minor-league-baseball.md (added Affiliated Teams section with 120-team count and patterns)
+
+## [2026-04-25] ingest | MiLB Rookie Leagues — ACL, FCL, DSL (links 8–10)
+- Processed 3 URLs; all 3 fetched successfully
+- Summary: sources/milb-rookie-leagues.md
+- Pages created: (none)
+- Pages updated: entities/minor-league-baseball.md (expanded Rookie league details with DSL Cup, rebranding history, multi-squad notes)
